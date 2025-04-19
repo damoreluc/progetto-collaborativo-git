@@ -12,6 +12,6 @@ Scrivere una guida, raccolta di appunti o diario scolastico in modo collaborativ
 - Si collabora rispettando i ruoli e approvando le modifiche degli altri
 
 ## Membri del gruppo
-- Luciana
+- Lucy
 - Luca
 - Luciano
