@@ -14,4 +14,4 @@ Scrivere una guida, raccolta di appunti o diario scolastico in modo collaborativ
 ## Membri del gruppo
 - Lucia
 - Luca
-- @nome3
+- Luciano
